@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Benedek Fülöp"
   pronouns         : "they/them"
-  bio              : "I try to explain AI"
+  bio              : "I try to explain AI, fix bikes, and blablabla"
   location         : "Amsterdam"
   uri              : # URL
   email            : "filipbenedek@gmail.com"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+#  arxiv            : # URL - Update with the correct link to your profile
+#  googlescholar    : # URL
+#  impactstory      : # URL
+#  orcid            : # URL
+#  semantic         : # URL
+#  pubmed           : # URL
+#  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "benedek-fulop" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -200,17 +200,17 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  talks:
+#    output: false
+#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -261,13 +261,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
 
 
 # Sass/SCSS
@@ -290,6 +290,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-livereload
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
