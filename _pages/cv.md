@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* Freelance Data scientist
+  * Created python notebooks for the Researching Digital Media and Society course by [Dr. P. (Maxigas) Dunajcsik](https://www.uu.nl/staff/PDunajcsik)
+  * Developing RAG implementations for Premium Egeszsegpenztar to provide accurate care for members using local and secure AI implementation
 * Finance Analyst, WW Ops FP&A Strategic Initiatives
 Amazon, Luxembourg (January 2023 - July 2023)
 
@@ -59,7 +62,6 @@ Skills
 ======
 * Programming languages
   * Python
-  * Javascript
   * R
   * Stata
   * Julia
@@ -87,10 +89,10 @@ Skills
     * Unboxing SHAP (developer), LIME, Gradient methods
     * Counterfactual explanations 
 * Econometrics 
-  * Causality (IV, Diff in Diff, RDD, )
+  * Causality (IV, Diff in Diff, RDD)
   * Time Series Analysis (VAR, SARIMA, GARCH)
 * Network Analytics 
-  * Network visualisation 
+  * Network visualisation  
   * Network prediction and analytics
 
   
