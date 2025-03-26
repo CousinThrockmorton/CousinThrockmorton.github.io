@@ -1,0 +1,20 @@
+---
+layout: archive
+permalink: /resources/
+title: "Resources"
+author_profile: true
+---
+
+{% include base_path %}
+
+This pages includes resources and notes on concepts I have found useful and reference in my work. These are not my work, all credits are to the original authors, but they are pretty cool so take what you find useful ;-) 
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.resources %}
+  {% capture year %}{{ post.resources | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
+  {% include archive-single.html %}
+{% endfor %}

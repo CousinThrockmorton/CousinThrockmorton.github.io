@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "bd51086d97aeed6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2418cd4e2fd3b660",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618c690260c40d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_resources/conviviality.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conviviality"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c451de84d20d2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa8aea2a624c92e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10a585c8b7c33970",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3b8036c07fff6386",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7a1528f9152538cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7291dfbe61c8735",
+    "type": "split",
+    "children": [
+      {
+        "id": "070495e5e1af7ccc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c094e6c2a2d58d1f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_publications/2010-10-01-paper-title-number-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2010-10-01-paper-title-number-2"
+            }
+          },
+          {
+            "id": "6b70fed0f0b3dda4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_publications/2010-10-01-paper-title-number-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2010-10-01-paper-title-number-2"
+            }
+          },
+          {
+            "id": "cd83772e47195a0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "103e21e42a4e7d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_publications/2010-10-01-paper-title-number-2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2010-10-01-paper-title-number-2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "618c690260c40d06",
+  "lastOpenFiles": [
+    "_site/images/digital_media.PNG",
+    "images/digital_media.PNG",
+    "_site/portfolio/digital_media/index.html",
+    "_site/portfolio/digital_media",
+    "_site/portfolio/digital_media.md",
+    "_portfolio/digital_media.md",
+    "_portfolio/untitled.txt",
+    "_site/portfolio/Untitled.ipynb",
+    "_portfolio/Untitled.ipynb",
+    "_resources/2015-spring-teaching-2.md",
+    "_resources/wiriting_tools.md",
+    "_site/resources/writing.html",
+    "_resources/conviviality.md",
+    "_pages/sitemap.md",
+    "vendor/bundle/ruby/3.1.0/specifications/jekyll-wikilinks-0.0.5.gemspec",
+    "vendor/bundle/ruby/3.1.0/gems/jekyll-wikilinks-0.0.5/lib/jekyll-wikilinks/version.rb",
+    "vendor/bundle/ruby/3.1.0/gems/jekyll-wikilinks-0.0.5/lib/jekyll-wikilinks/parser.rb",
+    "vendor/bundle/ruby/3.1.0/gems/jekyll-wikilinks-0.0.5/lib/jekyll-wikilinks/naming_const.rb",
+    "_posts/2024-03-17-What_is_in_the_box.md",
+    "_posts/2025-01-17-Another_AI.md",
+    "_posts/2024-11-27-Fixing_bikes.md",
+    "_posts/2024-11-27Fixing_bikes.md",
+    "_posts/2024-11-Fixing_bikes.md",
+    "_posts/Fixing_bikes.md",
+    "_posts/What_is_in_the_box.md",
+    "_posts/Another_AI.md",
+    "_site/images/winter_vals.png",
+    "_site/images/tumblr_bf64619d616c9ba05cfa0ff59c4a77ef_d5e80571_400.jpg",
+    "_site/images/trained_a_neural_net.png",
+    "_site/images/the_purpose_of_AI.jpg",
+    "_site/images/superintelligent_ais.png",
+    "_site/images/site-logo.png",
+    "_site/images/sign_language.jpg",
+    "_site/images/safari-pinned-tab.svg",
+    "_site/images/profile.png",
+    "_site/CONTRIBUTING.md",
+    "_site/markdown_generator/readme.md",
+    "_site/HTML import/sign_language.md",
+    "_site/HTML import/masters_thesis.md",
+    "_site/HTML import/imdb_network.md",
+    "_site/HTML import/bachelors_thesis.md",
+    "_pages/resources.md",
+    "{{.md",
+    "_pages/teaching.md",
+    "_site/{{.md",
+    "_site/cv/index.md",
+    "_site/Untitled.canvas",
+    "_site/Untitled 1.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

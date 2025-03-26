@@ -9,9 +9,9 @@ redirect_from:
 
 Heyoo, I am Benny
 ======
-I am a data scientist based in Amsterdam. I work on machine learning and AI explainability. I am also a bike mechanic, teaching bike repair at the UvA Bike Kitchen. In all my work I am aim to facilitate exploration, collaboration, and continious learning. 
+I am a data scientist based in Amsterdam. I am interested in the tools we use, access, construction, function and development. I am researching AI explainability, transparency and contestability as well as sustainability. I also work at various Bike Kitchens, common places to learn, collaborate, and practice DIY bike repair.
 
-I am always open for collaboration and fun side quests. Shoot me an email. 
+I am always open for collaboration and side quests. Shoot me an [email](filipbenedek@gmail.com). 
 
 <hr style="border: 1px solid black;">
 

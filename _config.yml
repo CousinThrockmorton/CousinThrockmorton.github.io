@@ -199,8 +199,8 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: false
+  resources:
+    output: true
     permalink: /:collection/:path/
   publications:
     output: false
@@ -233,10 +233,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _resources
   - scope:
       path: ""
-      type: teaching
+      type: resources
     values:
       layout: single
       author_profile: true
@@ -291,6 +291,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-livereload
+#  - jekyll-wikilinks
 
 # mimic GitHub Pages with --safe
 whitelist:

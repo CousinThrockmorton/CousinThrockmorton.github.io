@@ -1,0 +1,2 @@
+--- title: "Two ways for sign language detection" excerpt: "Little vision project  
+![](/images/sign_language.jpg)" collection: portfolio --- Two approaches for sign language detection. The first retraining a large convolutional model on static frames. The second notebook uses a keypoint estimation model to have better features and temporal convolution for detecting dynamic gestures.
