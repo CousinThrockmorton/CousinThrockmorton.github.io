@@ -5,7 +5,7 @@ permalink: /resources/writing
 ---
 
 For writing I have found a number of tools that help me create more in a sensible way. 
-The main backbone of my process is [Obsidian](https://obsidian.md/) a great way to organise and structure your notes and thinking. 
+The main backbone of my process is [Logseq](https://logseq.com/) a great way to organise and structure your notes and thinking. 
 It is open-source using markdown files making your notes portable across various systems, you can just take them anywhere.
 And the community offers a dazzling array of plugins, from local LLMs, text-to-speech, Git version controll, to drawing utilities. 
 If you like organising your thoughts and data you will love Obsidian. Oh and every page on this site is written on it.

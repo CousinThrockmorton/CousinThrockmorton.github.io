@@ -1,0 +1,33 @@
+---
+layout: single
+---
+
+<article class="note">
+  <header>
+    <h1 class="note-title">{{ page.title }}</h1>
+    {% if page.date %}
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </header>
+
+  <div class="note-content">
+    {{ content }}
+  </div>
+
+  {% if page.backlinks.size > 0 %}
+    <div class="backlink-box">
+      <h2>Backlinks</h2>
+      <ul>
+        {% for backlink in page.backlinks %}
+          <li>
+            <a href="{{ backlink.url }}">{{ backlink.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+  <div class="note-graph">
+    {% include notes_graph.html %}
+  </div>
+</article> 
