@@ -1,15 +1,16 @@
 ---
-title: "'Resisting the crawl'"
+title: 'Resisting the crawl'
 date: 2025-04-17
 permalink: /posts/2025/04/resisting_the_crawl/
 tags:
   - ethics
   - of
   - AI
-  - AI
   - sustainability
-  - "#data"
+  - robots.txt
+  - data
 ---
+
 The past months many people have seen many legislative attacks on our identities ([by the UK Supreme Court](https://www.bbc.com/news/live/cvgq9ejql39t), [Donald Trump's executive orders](https://apnews.com/article/trump-transgender-passports-prisons-eggs-sperm-da1d1d280658a8c85c57cfec2f30cefb), [Hungary's constitutional amendment](https://apnews.com/article/hungary-pride-ban-amendment-orban-gay-rights-lgbtq-155ec12cbbde7cc6be0f96adb323de77)), freedom of speech, and freedom to gather and demonstrate ([arrest Mahmoud Khalil](https://apnews.com/article/columbia-university-mahmoud-khalil-ice-440828980a4ee7bf4ddcf3d123e02b3e), [Harvard funding freeze for failing to "limit activism on campus"](https://apnews.com/article/harvard-trump-administration-federal-cuts-antisemitism-0a1fb70a2c1055bda7c4c5a5c476e18d)). Just to grab  a few examples of the top of my mind, I could not possibly be exhaustive of all the explicit violence spurred and carried out. This terrifyingly comprehensive and world spanning attack on gender, immigrants, journalists, organisers, and activists by neo-liberal, corpo-bureaucratic  institutions, politicians and governments  may very well be only the intro to a period of catastrophe. I doubt if you have found this you hadn't experienced the chocking, static panic of [hyper normalisation](https://www.youtube.com/watch?v=Gr7T07WfIhM).  The feeling of political and societal disassociation from reality as a constant stream of news and live social-media feed on tragedies, cruelty, hate and lately unabashed state violence unfolds without much objection, or response from power and leaders. Maybe complicit silence and shuffling. Crawling up from between your shoulder blades to encircle your throat, the rage of disability to witness atrocity without agency. 
 
 Well, now you can experience this on the internet too. Yay! Late-stage capitalism clings to it's current fad of techno-societal innovation: AI. An interface to software, based on natural language, a statistical tool to model any function, said to be intelligence. Extending the Silicon Valley model of supply capture to theft and building user reliance to direct manipulation. AI is forced into use via intrusive AI plugin, assistants, text completion, and summaries. It is capturing and internalising the creativity of people to further accelerate the unprecedented disconnect of people we all experience. And importantly make its creators and financiers a lot of money. And people do not like it. 
