@@ -203,7 +203,7 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  publications:
+  posts:
     output: false
     permalink: /:collection/:path/
   portfolio:
