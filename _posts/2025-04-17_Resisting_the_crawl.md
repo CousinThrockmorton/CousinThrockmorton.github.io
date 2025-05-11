@@ -14,7 +14,29 @@ The past months many people have seen many legislative attacks on our identities
 
 Well, now you can experience this on the internet too. Yay! Late-stage capitalism clings to it's current fad of techno-societal innovation: AI. An interface to software, based on natural language, a statistical tool to model any function, said to be intelligence. Extending the Silicon Valley model of supply capture to theft and building user reliance to direct manipulation. AI is forced into use via intrusive AI plugin, assistants, text completion, and summaries. It is capturing and internalising the creativity of people to further accelerate the unprecedented disconnect of people we all experience. And importantly make its creators and financiers a lot of money. And people do not like it. 
 
-LIST of tweets on hating AI not using AI 
+  <p align="center">
+  <img src="/images/Screenshot_20250505_164034_Tumblr~2.jpg" alt="XKCD 1838 Machine Learning" width="300" />
+  <br />
+  </p>
+
+  <p align="center">
+  <img src="/images/Tumblr_l_solving_wages.jpg" alt="XKCD 1838 Machine Learning" width="300" />
+  <br />
+  </p>
+  <p align="center">
+  <img src="/images/Tumblr_l_156353558838932.jpg" alt="XKCD 1838 Machine Learning" width="300" />
+  <br />
+  </p>
+  <p align="center">
+  <img src="/images/Tumblr_l_write_like_ai.jpg" alt="XKCD 1838 Machine Learning" width="300" />
+  <br />
+  </p>
+  <p align="center">
+  <img src="/images/Tumblr_l_wikipedia.jpg" alt="XKCD 1838 Machine Learning" width="300" />
+  <br />
+  </p>
+
+
 
 Recent months a more technical attack has been unfolding on open-source creators in the from of agressive AI scraper bots. This article aims to tease apart the logic of AI scraping, contextualise it within the political climate and analyse the tactics of resistance springing up against AI scraping. So what are these spiders, ro/bots, creepy crawlies? What do they do? How are these robots used by AI companies? And how can someone trap them, squash them and keep their intellectual property safe? And how does this fit in with other actions of the ailing capitalist machine? 
 ## Crawlers
@@ -44,6 +66,11 @@ Machine Learning models of the current paradigm are complex statistically optimi
 Large tech companies have now years of experience with the two sided platform model of operation. Capturing the supply of a service, be it retail goods, web pages, taxis and use technology and wast sums of venture capital, and state assistance to vertically integrate supply chains in an effort to offer something consumers can not refuse. Some of these companies even turned a profit using their monopoly status and are now facing anti-trust law suits a badge of honour in big-tech. AI stands as a continuation of this process. Their creators trying to capture the existing knowledge aggressively ignoring existing regulations and practices. Integrating and optimising the production through technology of machine learning. And aggressively pushing to consumers what we call enshitification to enshrine yet another monopoly position. In this the AI industry is no different than tech giants who's steps it is following, Google, Amazon, and Uber and the various associated small start-up ventures to be bought up or go bust when the bubble bursts.  
 
 But AI bros are ambitious and trying to capture a market that is much more human in writing, art, and creativity than commerce, transportation, or food delivery. While food preparation, and transport are great human institutions of sharing, attention, and care as we all by need partake in these processes. The extensive capital involvement and economies of scale certainly aided the capture of these spaces by tech giants. Quite the opposite great art and creativity is oft borne out of need, desperation, lack in the face of forgetting, time, and adversity. Try as they might AI will never match up to the pen, paper, spray cans love and anger we already possess, it doesn't grasp the basis.
+
+  <p align="center">
+  <img src="/images/tumblr_bf64619d616c9ba05cfa0ff59c4a77ef_d5e80571_400.jpg" alt="XKCD 1838 Machine Learning" width="300" />
+  <br />
+  </p>
 ### The attack on open-source
 
 But in contrast with search engines, AI in more ways internalises knowledge production for corporate goals in a more and more blatant capture of the knowledge economy. Google had over the years slowly enclosed its search results with [paid listings, places, FAQs, its own sites and now AI](https://www.zoomsphere.com/blog/zero-click-search-optimization-why-google-is-your-frenemy-and-how-to-beat-it-anyway). What they call Zero-Click search keeps clicks to owned or affiliated sites reducing the traffic to organic non-payed results. AI is at the top of this push now, providing an answer before all other results or quoted FAQs. It restricts interaction with original content in it's original setting, removing all the hyperlinking and contextual information form original site. This not only breaks peoples ability to explore and learn more, but it drives reliance on the product, on Google. 
