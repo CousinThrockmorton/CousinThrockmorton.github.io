@@ -1,6 +1,6 @@
 ---
 title: "'Resisting the crawl'"
-date: 0005-04-17
+date: 2025-04-17
 permalink: /posts/2025/04/resisting_the_crawl/
 tags:
   - ethics
